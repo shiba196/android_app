@@ -1,3 +1,2 @@
 # android_app
-It is a College Project
- By our group
+It is all projects i practiced
